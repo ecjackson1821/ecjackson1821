@@ -1,5 +1,5 @@
 # Welcome👋
-### My name is Ellie Jackson (she/her). I will be graduating from the University of Chicago with a Masters degree in Computer Science and Public Policy this June. I strive to build technology which empower lives. I write code, engage with people, receive their feedback, and then adapt code in an iterative process.
+My name is Ellie Jackson (she/her). I will be graduating from the University of Chicago with a Masters degree in Computer Science and Public Policy this June. I strive to build technology which empower lives. I write code, engage with people, receive their feedback, and then adapt code in an iterative process.
 
 ## My Tech Stack:
 Python Git JavaScript ReactJS Hive HBase C++
