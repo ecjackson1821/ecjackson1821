@@ -2,6 +2,15 @@
 My name is Ellie Jackson (she/her). I will be graduating from the University of Chicago with a Masters degree in Computer Science and Public Policy this June. I strive to build technology which empower lives. I write code, engage with people, receive their feedback, and then adapt code in an iterative process.
 
 ## My Tech Stack:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hive/hive.png" alt="Hive" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 Python Git JavaScript ReactJS Hive HBase C++
 
 ## Recent Projects
