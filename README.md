@@ -12,7 +12,7 @@ My name is Ellie Jackson (she/her). I will be graduating from the University of 
 ## Recent Projects
 *Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
 - [Lambda Framework Web Application for Hospital Pricing Transparency](https://github.com/ecjackson1821/lambda)
-- [Crime Comparative Analysis for Chicago]/(https://github.com/ecjackson1821/Chicago_Crime_Incidences)
+- [Crime Comparative Analysis for Chicago](https://github.com/ecjackson1821/Chicago_Crime_Incidences)
 - Cloud-hosted Genomics Annotation System
 - Web Scraping for Local Election Administrator Database
 - Machine Learning Music Genre Categorization
