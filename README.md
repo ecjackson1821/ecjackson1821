@@ -13,7 +13,7 @@ My name is Ellie Jackson (she/her). I will be graduating from the University of 
 *Many repos from school projects are private to follow academic integrity rules and respect intellectual property of professors. Code can be shared with prospective employers upon request*
 - Cloud-hosted Genomics Annotation System
 - Web Scraping for Local Election Administrator Database
-- [Lambda Framework Web Application for Hospital Pricing Transparency](docs/lambda.md)
+- [Lambda Framework Web Application for Hospital Pricing Transparency](https://github.com/ecjackson1821/lambda)
 - Machine Learning Music Genre Categorization
 - Basic Search Engine Backend with SQLite
 - Markov Models for Text Attribution
